@@ -1,8 +1,7 @@
 yolo-octo-cyril
 ===============
 
+
+Adding some other text.
+
 Playing with Angular\git
-
-Adding some text.
-
-Blah blah blah
